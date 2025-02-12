@@ -1,0 +1,9 @@
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\bin\Debug\CliffWalkingQ.exe.config
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\bin\Debug\CliffWalkingQ.exe
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\bin\Debug\CliffWalkingQ.pdb
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.csproj.AssemblyReference.cache
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.Properties.Resources.resources
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.csproj.GenerateResource.cache
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.csproj.CoreCompileInputs.cache
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.exe
+C:\Users\safez\source\repos\CliffWalkingQ\CliffWalkingQ\obj\Debug\CliffWalkingQ.pdb
